@@ -1,10 +1,8 @@
 package com.chacach.dbandroid;
 
 import android.content.Intent;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.view.Menu;
-import android.view.MenuItem;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
@@ -12,13 +10,20 @@ import android.widget.Toast;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
-import java.util.Date;
-import java.util.GregorianCalendar;
 
+
+/**
+ * Clase Ingreso
+ * Usada para controlar la Vista activity_ingreso.xml modificando los datos cuando sean necesario y ejecutando las debidas consultas
+ * Extiende de AppCompactActivity, para mas informacion vea
+ * @see AppCompatActivity
+ */
 public class Ingreso extends AppCompatActivity {
     EditText Enombre,Egasto;
     Button guardar,buscar;
-
+    /**
+     * Funcion onCreate, cargada cuando la vista activity_ingreso.xml se encuentra en proceso de renderización
+     */
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_ingreso);

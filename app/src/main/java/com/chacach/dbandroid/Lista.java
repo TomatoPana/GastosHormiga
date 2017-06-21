@@ -8,12 +8,21 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 
+/**
+ * Clase Lista, usada para controlar la vista activity_lista.xml modificando los datos cuando sean necesario y ejecutando las debidas consultas
+ * Extiende de AppCompactActivity, para mas informacion vea
+ * @see AppCompatActivity
+ */
+
 public class Lista extends AppCompatActivity {
     ListView lv ;
     TextView gastosTotales;
     ArrayList<String> lista;
     ArrayAdapter adaptador;
     @Override
+    /**
+     * Funcion onCreate, cargada cuando la vista activity_lista.xml se encuentra en proceso de renderización
+     */
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_lista);
