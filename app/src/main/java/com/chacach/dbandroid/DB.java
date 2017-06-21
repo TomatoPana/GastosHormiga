@@ -6,15 +6,13 @@ import android.database.Cursor;
 import android.database.SQLException;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
-
+import java.util.ArrayList;
 /**
  * Clase DB, define los metodos de conexion a la base de datos interna de la aplicacion, genera las consultas y retorna los elementos que se seleccionan
  * @Author Moises David Lozano Bobadilla & Hugo Rodrigo Puga Mora
  * La clase extiende de SQLiteOneHelper, para mas infomacion consulte
  * @see SQLiteOpenHelper
  */
-
-import java.util.ArrayList;
 
 public class DB extends SQLiteOpenHelper {
     /**
