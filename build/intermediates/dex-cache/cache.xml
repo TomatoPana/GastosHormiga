@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\USUARIO\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\USUARIO\Desktop\DBAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.0_3fe4aca61b803df6379fa044788bfe09de34e40e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USUARIO\Desktop\DBAndroid\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\USUARIO\Desktop\DBAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_1467c98ace83477c10256610cb795924d440bfca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USUARIO\.android\build-cache\b8ba30204b71a518512ab7bdc059adf39ba91370\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\USUARIO\Desktop\DBAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a38446eadd0a63720d034d8aca22ce0217ee2715\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USUARIO\Desktop\DBAndroid\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d69b209e0ed924b0c75ebac3697567c61a968705">
+        <dex dex="C:\Users\USUARIO\Desktop\DBAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b7a4c018d8e3e4850119a9e70d4dca38d9f6f50d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USUARIO\.android\build-cache\b8ba30204b71a518512ab7bdc059adf39ba91370\output\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\USUARIO\Desktop\DBAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.0_e70b9c240f340b5231c73b35d6ebbabda3a54e49\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USUARIO\.android\build-cache\c752debd7e2769c109554745d26b75a28b100aac\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\USUARIO\Desktop\DBAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dd3e640f4097d6f4fdfa2a1dc1da745c582154b6\classes.dex" />
+    </item>
+
+</items>

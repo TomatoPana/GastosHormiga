@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Gastos Hormiga</string>
+
+    <string name="nameGasto">Nombre del Gasto</string>
+    <string name="gasto">Gasto</string>
+    <string name="guardar">Ingresar Gasto</string>
+    <string name="hintnapellido">Ingrese Gasto</string>
+    <string name="hintnnombre">Ingrese Nombre del gasto</string>
+    <string name="mostrar">Mostrar Gastos</string>
+
+</resources>
